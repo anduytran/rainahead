@@ -6,3 +6,6 @@ Rainahead is a basic weather app with the ability to display upcoming forecasts 
 
 # Plans
 We plan to use Rain Viewer's apis, found at https://www.rainviewer.com/api.html, to get information about the current forecasts, future forecasts, and weather radar data.
+
+# Development
+Use npm start to run the app in development mode. 
